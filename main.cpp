@@ -1,17 +1,14 @@
 #include <iostream>
 using namespace std;
 
-void cout_lozes_lox() {
-	cout << "Lozes lox" << endl;
+void reminder() {
+	cout << "Nado uje chtoto delat' zaebal" << endl;
 }
 
 int main()
 {
-	cout << "hello";
+	reminder();
+	cin.get();
 	return 0;
-}
-
-float return_pi() {
-	return 3.14;
 }
 
