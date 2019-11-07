@@ -10,3 +10,8 @@ int main()
 	cout << "hello";
 	return 0;
 }
+
+float return_pi() {
+	return 3.14;
+}
+
